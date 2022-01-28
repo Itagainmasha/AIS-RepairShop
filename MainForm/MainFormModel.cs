@@ -1,0 +1,6 @@
+﻿namespace RepairShop
+{
+    class MainFormModel
+    {
+    }
+}
